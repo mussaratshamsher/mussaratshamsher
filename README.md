@@ -13,8 +13,8 @@
 ---
 
 ## 🎯 About Me  
-🎓 **M.Sc. in Economics** | **Certified AI Developer & Engineer (GIAIC)**  
-💻 Full-Stack Developer passionate about AI-powered solutions  
+🎓 **M.Sc. in Economics** | **Pursuing Certified AI Developer & Engineer (GIAIC)**  
+💻 Full-Stack Developer,passionate about AI-powered solutions  
 🎨 Transforming **pixel-perfect UI/UX** into high-performance apps  
 🚀 Always experimenting with cutting-edge technologies  
 
