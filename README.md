@@ -94,11 +94,11 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://mussarat-web-dev.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"> </a>
-  <a href="https://www.linkedin.com/in/mussarat-shamsher-7618a6380/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
-  <a href="https://x.com/MussaratShams"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white"> </a>
-  <a href="https://www.facebook.com/profile.php?id=61556406399229"><img src="https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2"></a>
-  <a href="mailto:musaratskhan@example.com"> <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"> </a>
+  <a href="https://mussarat-web-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/mussarat-shamsher-7618a6380/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+  <a href="https://x.com/MussaratShams" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white"> </a>
+  <a href="https://www.facebook.com/profile.php?id=61556406399229" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2"></a>
+  <a href="mailto:musaratskhan@example.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"> </a>
 </p>
 
 ---
