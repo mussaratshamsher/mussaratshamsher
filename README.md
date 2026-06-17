@@ -38,13 +38,8 @@
 ---
 
 
-<p>
-  <span style="font-size:30px; font-weight:1000;">
-    🛠 Tech Stack
-  </span>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45" style="vertical-align: middle;" />
-</p>
+##    🛠 Tech Stack
+ 
 
 ###  🤖 AI & Agentic AI     <p align="center">
 
