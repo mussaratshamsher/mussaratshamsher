@@ -1,7 +1,8 @@
 <!-- Hero Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="140" style="filter: hue-rotate(90deg) saturate(1.5)";/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNvYTF5Ymc3ZXh5NzZkanB1eGJxamV4MHk4bjFyanozOGJjaGtxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/imHJKSWL5rt8n0fZO8/giphy.gif" width="140"/>
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif" 
        alt="Mussarat Shamsher — Full Stack Developer" width="100%" />
@@ -33,11 +34,15 @@
 - 🔗 MCP & Tool Calling
 - 📚 AI Learning Products
 - 🌐 Full Stack SaaS Applications
+- 
 ---
+
 
 ## 🛠 Tech Stack
 
-### 🤖 AI & Agentic AI
+###  🤖 AI & Agentic AI     <p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="140"/>
+</p>
 
 OpenAI Agents SDK • Gemini API • Groq
 LangChain • MCP •Open Router
