@@ -38,8 +38,8 @@
 ---
 
 
-##<p align="center">
-  <span style="font-size:18px; font-weight:600;">
+<p>
+  <span style="font-size:20px; font-weight:600;">
     🛠 Tech Stack
   </span>
   &nbsp;&nbsp;
