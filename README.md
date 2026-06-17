@@ -6,7 +6,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F0FF&lines=Hi+There!+👋;I'm+Mussarat+Shamsher;AI+Engineer+%7C+Agentic+AI+Developer;Full+Stack+Developer;Founder+%40+Innolyze;Building+AI+Employees+and+Automation+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F0FF&lines=Hi+There!+👋;I'm+Mussarat+Shamsher;AI+Engineer+%7C+Agentic+AI+Developer;Full+Stack+Developer;Building+AI+Employees+and+Automation+Systems" />
 </p>
 
 ---
