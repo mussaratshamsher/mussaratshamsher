@@ -74,6 +74,7 @@ GitHub Actions •  GitHub pages
 
 Figma • Canva • GIMP
 Photoshop • Illustrator
+
 ---
 
 ## 📊 GitHub Overview
@@ -101,11 +102,12 @@ AI-powered Digital Employee platform for business automation and intelligent wor
 
 ---
 
-### 📚 Physical AI and Humanoid Robotics Book
+### 📚 Physical AI & Humanoid Robotics book
 
 Interactive AI-powered learning experience using conversational AI.
 **Stack:** Python • Streamlit • OpenAI • Agentic AI
 🔗 https://humanoid-robotics-book-sepia.vercel.app/
+
 ---
 
 ### 🛋 Furniro
@@ -145,6 +147,7 @@ Responsive music player with clean design and smooth UX.
 Responsive image gallery with optimized layouts and performance.
 **Stack:** HTML • CSS • JavaScript
 🔗 https://photogallery-indol.vercel.app/
+
 ---
 
 ## 🌐 Connect with Me  
