@@ -38,11 +38,15 @@
 ---
 
 
-## 🛠 Tech Stack
+##<p align="center">
+  <span style="font-size:18px; font-weight:600;">
+    🛠 Tech Stack
+  </span>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45" style="vertical-align: middle;" />
+</p>
 
 ###  🤖 AI & Agentic AI     <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="140"/>
-</p>
 
 OpenAI Agents SDK • Gemini API • Groq
 LangChain • MCP •Open Router
