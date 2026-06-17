@@ -1,6 +1,6 @@
 <!-- Hero Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif" 
