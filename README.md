@@ -1,6 +1,6 @@
 <!-- Hero Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="140" style="filter: hue-rotate(90deg) saturate(1.5)";/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif" 
