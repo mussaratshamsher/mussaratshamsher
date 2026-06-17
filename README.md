@@ -3,6 +3,12 @@
   <img src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif" 
        alt="Mussarat Shamsher — Full Stack Developer" width="100%" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&color=00F0FF&lines=AI+Engineer+%7C+Agentic+AI+Developer;Full+Stack+Developer;Founder+%40+Innolyze;Building+AI+Employees+%26+Automation+Systems" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60" />
+</p>
 
 <!-- Typing SVG -->
 <p align="center">
