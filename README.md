@@ -39,7 +39,7 @@
 
 
 <p>
-  <span style="font-size:20px; font-weight:600;">
+  <span style="font-size:30px; font-weight:1000;">
     🛠 Tech Stack
   </span>
   &nbsp;&nbsp;
