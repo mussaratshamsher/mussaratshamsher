@@ -83,16 +83,6 @@ Photoshop • Illustrator
 
  ## 📊 GitHub Analytics
 
-<!-- <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-nine-80.vercel.app/api?username=mussaratshamsher&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=mussaratshamsher&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mussaratshamsher&theme=github-dark&hide_border=true&area=true" />
-</p> -->
-
 <p align="center">
 <img width="49%" src="https://github-readme-stats-sigma-nine-80.vercel.app/api?username=mussaratshamsher&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
