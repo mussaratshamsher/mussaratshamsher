@@ -82,9 +82,14 @@ Photoshop • Illustrator
 ---
 
 ## 📊 GitHub Overview
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-nine-80.vercel.app/api?username=mussaratshamsher&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mussaratshamsher&theme=tokyonight&hide_border=true" height="160" />
+</p> -->
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats-sigma-nine-80.vercel.app/api?username=mussaratshamsher&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F778BA" height="160" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mussaratshamsher&background=0D1117&ring=58A6FF&fire=F778BA&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" height="160" />
 </p>
 
 ## 📈 Activity Graph
