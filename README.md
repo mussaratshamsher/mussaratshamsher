@@ -84,7 +84,7 @@ Photoshop • Illustrator
 ## 📊 GitHub Overview
 <p align="center">
   <img src="https://github-readme-stats-sigma-nine-80.vercel.app/api?username=mussaratshamsher&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=mussaratshamsher&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mussaratshamsher&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ## 📈 Activity Graph
