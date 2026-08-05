@@ -80,27 +80,10 @@ Figma • Canva • GIMP
 Photoshop • Illustrator
 
 ---
-<!--
-## 📊 GitHub Overview
- <p align="center">
-  <img src="https://github-readme-stats-sigma-nine-80.vercel.app/api?username=mussaratshamsher&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mussaratshamsher&theme=tokyonight&hide_border=true" height="160" />
-</p>
-## 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats-sigma-nine-80.vercel.app/api?username=mussaratshamsher&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F778BA" height="160" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mussaratshamsher&background=0D1117&ring=58A6FF&fire=F778BA&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" height="160" />
-</p>
 
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mussaratshamsher&theme=tokyo-night&hide_border=true" />
-</p>
- -->
  ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-nine-80.vercel.app/api?username=mussaratshamsher&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
 
   <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=mussaratshamsher&theme=github-dark-blue&hide_border=true" />
@@ -108,6 +91,16 @@ Photoshop • Illustrator
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mussaratshamsher&theme=github-dark&hide_border=true&area=true" />
+</p> -->
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats-sigma-nine-80.vercel.app/api?username=mussaratshamsher&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mussaratshamsher&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mussaratshamsher&theme=github-compact&hide_border=true"/>
 </p>
 ---
 
