@@ -1,72 +1,23 @@
-<!-- ========================================================= -->
-<!--                         HERO                              -->
-<!-- ========================================================= -->
+<!-- HERO -->
+<img align="left" src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" width="380">
 
-<table>
-  <tr>
-    <!-- LEFT: GIPHY Coding Animation -->
-    <td width="40%" align="center" valign="middle">
-      <iframe
-        src="https://giphy.com/embed/93UOscPyDH8cdRfSaT"
-        width="480"
-        height="379"
-        frameborder="0"
-        class="giphy-embed"
-        allowfullscreen>
-      </iframe>
-    </td>
-
-    <!-- RIGHT: Profile Content -->
-    <td width="60%" align="center" valign="middle">
-
-      <img
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00F0FF&lines=Hi+There!+👋;I'm+Mussarat+Shamsher;Agentic+AI+Engineer;AI+Automation+Developer;Full+Stack+Developer;Building+AI+Employees+%26+Intelligent+Systems"
-        alt="Typing animation"
-      />
-
-      <br />
-
-      <img
-        src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif"
-        alt="Mussarat Shamsher — Agentic AI Engineer & Full Stack Developer"
-        width="100%"
-      />
-
-      <br /><br />
-
-      <a href="https://mussarat-web-dev.vercel.app/">
-        <img
-          src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"
-          alt="Portfolio"
-        />
-      </a>
-
-      <a href="https://www.linkedin.com/in/mussarat-shamsher-7618a6380/">
-        <img
-          src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-          alt="LinkedIn"
-        />
-      </a>
-
-      <a href="https://github.com/mussaratshamsher">
-        <img
-          src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
-          alt="GitHub"
-        />
-      </a>
-
-      <a href="https://x.com/MussaratShams">
-        <img
-          src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"
-          alt="X"
-        />
-      </a>
-
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=00F0FF&lines=Hi+There!+👋;I'm+Mussarat+Shamsher;Agentic+AI+Engineer;AI+Automation+Developer;Full+Stack+Developer;Building+AI+%26+Intelligent+Systems" />
+  <br>
+  <img src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif" width="500">
+  <br><br>
+  <a href="https://mussarat-web-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-00F0FF?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mussarat-shamsher-7618a6380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <br>
+  <a href="https://github.com/mussaratshamsher"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://x.com/MussaratShams"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+</div>
+<br clear="both">
 
 ---
+
+## 👨‍💻 About Me
+
 
 ---
 
@@ -79,39 +30,26 @@ I build **AI agents, intelligent automation systems, digital employees, and full
 🎓 **M.Sc. Economics**
 🤖 **Certified AI Developer & Engineer — GIAIC**
 
-My engineering focus combines:
+My engineering focus combines **Agentic AI, backend engineering, and modern web development** to create applications that can reason, use tools, interact with data, and automate workflows.
 
-* 🤖 Agentic AI & AI Agents
-* ⚡ AI Automation & Digital Employees
-* 🧠 Multi-Agent Systems
-* 🔗 MCP & Tool Calling
-* 📚 RAG & Knowledge Systems
-* 🌐 AI-Powered SaaS Applications
-* ⚙️ Python & FastAPI Backend Systems
-* 💻 Next.js & TypeScript Applications
-
-I also bring experience in **UI/UX, Graphic Design, Branding, and SEO**, allowing me to approach products from both **engineering and creative perspectives**.
+I also bring experience in **UI/UX, Graphic Design, Branding, and SEO**, allowing me to approach products from engineering, design, usability, and growth perspectives.
 
 ---
 
 # 🧠 Engineering Focus
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Agentic%20AI-00F0FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AI%20Automation-00F0FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-00F0FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MCP-00F0FF?style=for-the-badge&labelColor=0D1117" />
-
+  <img src="https://img.shields.io/badge/Agentic%20AI-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/AI%20Automation-00F0FF?style=for-the-badge&labelColor=0D1117" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Multi Agent Systems" />
+  <img src="https://img.shields.io/badge/MCP-00F0FF?style=for-the-badge&labelColor=0D1117" alt="MCP" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/RAG-00F0FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AI%20SaaS-00F0FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FastAPI-00F0FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Next.js-00F0FF?style=for-the-badge&labelColor=0D1117" />
-
+  <img src="https://img.shields.io/badge/RAG-00F0FF?style=for-the-badge&labelColor=0D1117" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI%20SaaS-00F0FF?style=for-the-badge&labelColor=0D1117" alt="AI SaaS" />
+  <img src="https://img.shields.io/badge/FastAPI-00F0FF?style=for-the-badge&labelColor=0D1117" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Next.js" />
 </p>
 
 ---
@@ -138,10 +76,16 @@ I also bring experience in **UI/UX, Graphic Design, Branding, and SEO**, allowin
 
 <p align="center">
   <a href="https://lead-forge-peach.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Live Demo" />
+    <img
+      src="https://img.shields.io/badge/🚀%20Live%20Demo-00F0FF?style=for-the-badge&labelColor=0D1117"
+      alt="LeadForge Live Demo"
+    />
   </a>
   <a href="https://github.com/mussaratshamsher/Capstone2-Backend_AI-Eng-Embedable_Widget">
-    <img src="https://img.shields.io/badge/💻%20GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117" alt="GitHub Repository" />
+    <img
+      src="https://img.shields.io/badge/💻%20GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117"
+      alt="LeadForge GitHub"
+    />
   </a>
 </p>
 
@@ -167,10 +111,16 @@ I also bring experience in **UI/UX, Graphic Design, Branding, and SEO**, allowin
 
 <p align="center">
   <a href="https://mussarat-digital-fte.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Live Demo" />
+    <img
+      src="https://img.shields.io/badge/🚀%20Live%20Demo-00F0FF?style=for-the-badge&labelColor=0D1117"
+      alt="Digital FTE Live Demo"
+    />
   </a>
   <a href="https://github.com/mussaratshamsher/digital-FTE">
-    <img src="https://img.shields.io/badge/💻%20GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117" alt="GitHub Repository" />
+    <img
+      src="https://img.shields.io/badge/💻%20GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117"
+      alt="Digital FTE GitHub"
+    />
   </a>
 </p>
 
@@ -196,10 +146,16 @@ An AI-powered platform that analyzes digital content and generates **actionable 
 
 <p align="center">
   <a href="https://mscontentpulse-sigma.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Live Demo" />
+    <img
+      src="https://img.shields.io/badge/🚀%20Live%20Demo-00F0FF?style=for-the-badge&labelColor=0D1117"
+      alt="Content Intelligence Live Demo"
+    />
   </a>
   <a href="https://github.com/mussaratshamsher/Afynix-Digital/tree/main/Week4-Content_Analyzer">
-    <img src="https://img.shields.io/badge/💻%20GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117" alt="GitHub Repository" />
+    <img
+      src="https://img.shields.io/badge/💻%20GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117"
+      alt="Content Intelligence GitHub"
+    />
   </a>
 </p>
 
@@ -225,10 +181,16 @@ An AI-powered learning experience combining **technical knowledge with conversat
 
 <p align="center">
   <a href="https://humanoid-robotics-book-sepia.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Live Demo" />
+    <img
+      src="https://img.shields.io/badge/🚀%20Live%20Demo-00F0FF?style=for-the-badge&labelColor=0D1117"
+      alt="Humanoid Robotics Live Demo"
+    />
   </a>
   <a href="https://github.com/mussaratshamsher/Nexe-Agentic-AI-Intern/tree/master/02-Intermediate-level">
-    <img src="https://img.shields.io/badge/💻%20GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117" alt="GitHub Repository" />
+    <img
+      src="https://img.shields.io/badge/💻%20GitHub-FFFFFF?style=for-the-badge&labelColor=0D1117"
+      alt="Humanoid Robotics GitHub"
+    />
   </a>
 </p>
 
@@ -237,23 +199,38 @@ An AI-powered learning experience combining **technical knowledge with conversat
 # 🧩 AI Engineering Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,ts,postgres,supabase,docker,kubernetes,githubactions" />
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,ts,postgres,supabase,docker,kubernetes,githubactions"
+    alt="AI Engineering Tech Stack"
+  />
 </p>
 
 ### 🤖 AI & Agentic Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
+  <img
+    src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"
+    alt="OpenAI Agents SDK"
+  />
+  <img
+    src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"
+    alt="Gemini API"
+  />
+  <img
+    src="https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge"
+    alt="MCP"
+  />
+  <img
+    src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"
+    alt="RAG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tool%20Calling-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Automation-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-0D1117?style=for-the-badge" alt="Multi Agent Systems" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-0D1117?style=for-the-badge" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/AI%20Automation-0D1117?style=for-the-badge" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge" alt="Prompt Engineering" />
 </p>
 
 ---
@@ -289,33 +266,54 @@ This combination allows me to approach products from **engineering, design, usab
 
 # 💼 Selected Full-Stack Projects
 
-### 🛋️ Furniro
+## 🛋️ Furniro
 
 Modern e-commerce platform featuring authentication, payments, and responsive UI.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Clerk` `Stripe`
 
-🔗 **[Live Demo](https://functional-hackthon--two.vercel.app/)**
+<p align="center">
+  <a href="https://functional-hackthon--two.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🚀%20Live%20Demo-00F0FF?style=for-the-badge&labelColor=0D1117"
+      alt="Furniro Live Demo"
+    />
+  </a>
+</p>
 
 ---
 
-### 🍽️ Flavour Fusion
+## 🍽️ Flavour Fusion
 
 Modern restaurant platform featuring blogs, animations, and responsive design.
 
 `Next.js` `TypeScript` `Tailwind CSS`
 
-🔗 **[Live Demo](https://resturant-flavourfusion.vercel.app/)**
+<p align="center">
+  <a href="https://resturant-flavourfusion.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🚀%20Live%20Demo-00F0FF?style=for-the-badge&labelColor=0D1117"
+      alt="Flavour Fusion Live Demo"
+    />
+  </a>
+</p>
 
 ---
 
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
 Personal portfolio showcasing my work across **AI engineering, full-stack development, design, and SEO**.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-🔗 **[Visit Portfolio](https://mussarat-web-dev.vercel.app/)**
+<p align="center">
+  <a href="https://mussarat-web-dev.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-00F0FF?style=for-the-badge&labelColor=0D1117"
+      alt="Personal Portfolio"
+    />
+  </a>
+</p>
 
 ---
 
@@ -365,19 +363,31 @@ Personal portfolio showcasing my work across **AI engineering, full-stack develo
 <p align="center">
 
 <a href="https://mussarat-web-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge" alt="Portfolio" />
+  <img
+    src="https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge"
+    alt="Portfolio"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/mussarat-shamsher-7618a6380/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://x.com/MussaratShams">
-  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <img
+    src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  />
 </a>
 
 <a href="https://github.com/mussaratshamsher">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img
+    src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 </p>
