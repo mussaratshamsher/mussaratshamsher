@@ -1,38 +1,72 @@
 <!-- ========================================================= -->
-
 <!--                         HERO                              -->
-
 <!-- ========================================================= -->
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif"
-    alt="Mussarat Shamsher — Agentic AI Engineer & Full Stack Developer"
-    width="100%"
-  />
-</p>
+<table>
+  <tr>
+    <!-- LEFT: GIPHY Coding Animation -->
+    <td width="40%" align="center" valign="middle">
+      <iframe
+        src="https://giphy.com/embed/93UOscPyDH8cdRfSaT"
+        width="480"
+        height="379"
+        frameborder="0"
+        class="giphy-embed"
+        allowfullscreen>
+      </iframe>
+    </td>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F0FF&lines=Hi+There!+👋;I'm+Mussarat+Shamsher;Agentic+AI+Engineer;AI+Automation+Developer;Full+Stack+Developer;Building+AI+Employees+%26+Intelligent+Systems"
-    alt="Typing animation"
-  />
-</p>
+    <!-- RIGHT: Profile Content -->
+    <td width="60%" align="center" valign="middle">
 
-<p align="center">
-  <a href="https://mussarat-web-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mussarat-shamsher-7618a6380/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mussaratshamsher">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/MussaratShams">
-    <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00F0FF&lines=Hi+There!+👋;I'm+Mussarat+Shamsher;Agentic+AI+Engineer;AI+Automation+Developer;Full+Stack+Developer;Building+AI+Employees+%26+Intelligent+Systems"
+        alt="Typing animation"
+      />
+
+      <br />
+
+      <img
+        src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif"
+        alt="Mussarat Shamsher — Agentic AI Engineer & Full Stack Developer"
+        width="100%"
+      />
+
+      <br /><br />
+
+      <a href="https://mussarat-web-dev.vercel.app/">
+        <img
+          src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"
+          alt="Portfolio"
+        />
+      </a>
+
+      <a href="https://www.linkedin.com/in/mussarat-shamsher-7618a6380/">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+          alt="LinkedIn"
+        />
+      </a>
+
+      <a href="https://github.com/mussaratshamsher">
+        <img
+          src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
+          alt="GitHub"
+        />
+      </a>
+
+      <a href="https://x.com/MussaratShams">
+        <img
+          src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"
+          alt="X"
+        />
+      </a>
+
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 
