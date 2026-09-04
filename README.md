@@ -3,12 +3,32 @@
 <!--                         HERO                              -->
 
 <!-- ========================================================= -->
+<!-- ===================== HERO ===================== -->
 
-<p align="center">
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img
+        src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif"
+        alt="Coding Animation"
+        width="280"
+      />
+    </td>
+
+    <td width="65%" align="center">
+      <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F0FF&lines=Hi+There!+👋;I'm+Mussarat+Shamsher;Agentic+AI+Engineer;AI+Automation+Developer;Full+Stack+Developer;Building+AI+Employees+%26+Intelligent+Systems"
+    alt="Typing animation"
+  />
+  <p align="center">
   <img src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif"
        alt="Mussarat Shamsher — Agentic AI Engineer & Full Stack Developer"
        width="100%" />
 </p>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F0FF&lines=Hi+There!+👋;I'm+Mussarat+Shamsher;Agentic+AI+Engineer;AI+Automation+Developer;Full+Stack+Developer;Building+AI+Employees+%26+Intelligent+Systems" />
