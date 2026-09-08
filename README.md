@@ -1,18 +1,29 @@
 <!-- HERO -->
-<img align="left" src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" width="380">
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=00F0FF&lines=Hi+There!+👋;I'm+Mussarat+Shamsher;Agentic+AI+Engineer;AI+Automation+Developer;Full+Stack+Developer;Building+AI+%26+Intelligent+Systems" />
+<p align="center">
+  <img align="left" src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" width="320" alt="Animated Giphy">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&color=00F0FF&lines=Hi+There!+👋;I'm+Mussarat+Shamsher;Agentic+AI+Engineer;AI+Automation+Developer;Full+Stack+Developer;Building+AI+%26+Intelligent+Systems" alt="Typing SVG" />
   <br>
-  <img src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif" width="500">
+  <img src="https://raw.githubusercontent.com/mussaratshamsher/mussaratshamsher/main/assets/hero-neon.gif" width="400" alt="Neon Title">
   <br><br>
-  <a href="https://mussarat-web-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-00F0FF?style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mussarat-shamsher-7618a6380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
+  <a href="https://mussarat-web-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00F0FF?style=for-the-badge&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/mussarat-shamsher-7618a6380/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <br>
-  <a href="https://github.com/mussaratshamsher"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://x.com/MussaratShams"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-</div>
+  <a href="https://github.com/mussaratshamsher">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/MussaratShams">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter">
+  </a>
+</p>
 <br clear="both">
+
+---
 
 ---
 
