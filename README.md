@@ -346,7 +346,7 @@ Personal portfolio showcasing my work across **AI engineering, full-stack develo
 <p align="center">
   <img
     width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mussaratshamsher&theme=github-compact&hide_border=true"
+    src="./assets/github-activity.svg"
     alt="GitHub Activity Graph"
   />
 </p>
